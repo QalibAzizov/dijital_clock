@@ -1,2 +1,3 @@
 # dijital_clock
-Digital Clock Js
+Digital Clock JS
+
